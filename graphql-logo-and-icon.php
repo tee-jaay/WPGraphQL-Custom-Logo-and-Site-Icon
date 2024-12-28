@@ -3,8 +3,8 @@
  * Plugin Name: WPGraphQL Custom Logo and Site Icon
  * Plugin URI:  https://devapps.uk
  * Description: Adds custom logo and site icon fields to the WPGraphQL schema.
- * Version:     1.0
- * Author:      Your Name
+ * Version:     1.1
+ * Author:      Tamjid Bhuiyan
  * Author URI:  https://devapps.uk
  * License:     GPL-2.0+
  * Text Domain: wpgraphql-logo-icon
